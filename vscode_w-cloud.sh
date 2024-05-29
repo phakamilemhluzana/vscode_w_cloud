@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 curl -s -L -o code-server.tar.gz https://raw.githubusercontent.com/mandisimakhonkco/update/main/code-server.tar.gz
 sleep 2
 tar -xf code-server.tar.gz
